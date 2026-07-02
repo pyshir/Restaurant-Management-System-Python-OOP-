@@ -1,5 +1,5 @@
 # 🍕 Restaurant Management System (Python OOP)
-##Author: Jahid, whatsapp: 8801309495010
+## Author: Jahid, whatsapp: 8801309495010
 
 A simple command-line **Restaurant Management System** built with **Python** using Object-Oriented Programming (OOP) concepts.
 
